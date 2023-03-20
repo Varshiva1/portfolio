@@ -1,7 +1,7 @@
 import './portfolio.css' 
 import React from 'react'
-import IMG1 from '../../assets/proj1.png'
-import IMG2 from '../../assets/proj2hospital.png'
+import IMG1 from '../../assets/notesapp.png'
+import IMG2 from '../../assets/NewsApp.png'
 import IMG3 from '../../assets/project-sample.png'
 import IMG4 from '../../assets/project-sample.png'
 
@@ -13,10 +13,10 @@ const data = [
   {
     id: 1,
     image : IMG1 , 
-    title:'SpringBoot API Project', 
-    title2:'Blogging App RestFul API',
-    github : 'https://github.com/TechnoDiktator/Resume_Projects/tree/main/BlogApi%20Source%20Code',
-    demo: 'http://65.1.105.145/swagger-ui/index.html'
+    title:'notes-app', 
+    title2:'NOTES-APP',
+    github : 'https://github.com/Varshiva1/notes-app',
+    demo: 'https://notessappp.netlify.app/'
 
   },
 
@@ -25,32 +25,32 @@ const data = [
   {
     id: 2,
     image : IMG2 ,
-    title:'JSP Servlet Webapp Project', 
-    title2:'Hospital Management App',
-    github : 'https://github.com/TechnoDiktator/Resume_Projects/tree/main/Hospital%20Site',
-    demo: 'http://3.111.83.212:8080/HOSPITAL_DEPLOYMENT_APP/'
+    title:'News App', 
+    title2:'NewsApp',
+    github : 'https://github.com/Varshiva1/news-app',
+    demo: 'https://newssapp.netlify.app/'
 
   },
   
   {
     id: 3,
     image : IMG3 , 
-    title:'SpringBoot React.js Project',
-    title2:'Coming Soon',
-    github : 'https://github.com/TechnoDiktator/Resume_Projects/tree/main/',
-    demo: ''
+    title:'Decor App',
+    title2:'Decor- A complete Home Solution',
+    github : 'https://github.com/Varshiva1/Decor--A-complete-home-solution',
+    demo: 'https://decorrr.netlify.app/#'
 
   },
   
-  {
-    id: 4,
-    image : IMG4 , 
-    title:'Python Django Project',
-    title2:'Coming Soon',
-    github : 'https://github.com/TechnoDiktator/Resume_Projects/tree/main/',
-    demo: ''
+  // {
+  //   id: 4,
+  //   image : IMG4 , 
+  //   title:'',
+  //   title2:'Coming Soon',
+  //   github : 'https://github.com/TechnoDiktator/Resume_Projects/tree/main/',
+  //   demo: ''
 
-  },
+  // },
 ]
 
 
@@ -106,14 +106,6 @@ function Portfolio() {
     </section>
   )
 }
-
-
-//   http://3.111.83.212:8080/HOSPITAL_DEPLOYMENT_APP/
-// https://github.com/TechnoDiktator/Resume_Projects/tree/main/Hospital%20Site
-
-
-// http://65.1.105.145/swagger-ui/index.html
-// https://github.com/TechnoDiktator/Resume_Projects/tree/main/BlogApi%20Source%20Code
 
 
 

@@ -45,7 +45,7 @@ function Services() {
               <p className='service_decription' >Graduate Degree - GL Bajaj Institute Of technology and Management</p>
               
               <ol className='service_list-items'>
-                <li>1. Branch - civil Engineering</li>
+                <li>1. Branch - Civil Engineering </li>
                 <li>2. Percentage - 66.12 %</li>
                 {/* <li>3. Soceity/Clubs -  AME ( Association of Mechanical Engg. ) , Debnexus (Debating) </li> */}
                 {/* <li>4. Internships - DLW (Diesel Locomotive Works Varanasi)</li> */}
@@ -65,40 +65,56 @@ function Services() {
           </div>
         
           <ul className='service_list'>
-            <li>
+            {/* <li>
 
-              <p className='service_decription' >Cargill India -  Technical Management Trainee</p>
-              <li>Duration  -  September 2020  to June 2021</li>
-              <li>Department - Project Management</li>
+              <p className='service_decription' >Amazon India Development Centre Noida </p>
+              <li>Duration  -  August 2018  to January 2019</li>
+              <li>Customer Service Representative</li>
               <li>Description</li>
                 <ol className='service_list-items'>
-                  <li>1. Worked on Brown Field Project - Interesterification plant</li>
-                  <li>2. Site Management</li>
-                  <li>3. Inventory Management</li>
-                  <li>4. Preparing Safety and Incidence Reports </li>
-                  <li>5. Design Discussion and Progress Reporting</li>
-                  <li>6. Induction of contrators inside the plant</li>
+                  <li>1. Assisted customers With their purchase</li>
+                  <li>2. provide troubleshooting and technical assistance to customers</li>
+                  <li>3. Handling North-american clients</li>
                 </ol>
 
               
 
-            </li>
+            </li> */}
             <li>
              
-              <p className='service_decription'>ZS Associates - Decision Analytics Associate</p>
-              <li>Duration  -  June 2021  to March 2022</li>
-              <li>Department - Forecasting Analytics</li>
-              <li>Description</li>
+              <p className='service_decription'>THE HOLISTIC GROUP</p>
+              <li>Nov 2021 - Dec 2021</li>
+              <li>Full Stack Developer trainee</li>
+              {/* <li>Description</li> */}
                 <ol className='service_list-items'>
-                  <li>1. Worked on 4 inline brands -Somatuline , Decapeptyl , Dysport , Cabometyx   </li>
-                  <li>2. Built forecasting models using Ms- Excel , Excel VBA , Python  for backend coding and analytics</li>
-                  <li>3. Upgraded Existing Models</li>
-                  <li>4. Performed Ad-Hoc tasks such as data visualisation and data analysis </li>
-                  <li>5. Making Illustrative Presentation for client</li>
-                  <li>6. Gave KTs to newly inducted team members on the existing models</li>
+               <li>Creating APIs using NODEJS, MongoDB using Express </li>
                    
                 </ol>
 
+            </li>
+             <li>
+              <p className='service_decription' >Abhiwan Technology Private Limited </p>
+              <li>Duration  - August 2022 - December 2022</li>
+              <li>Trainee Full Stack Developer</li>
+              {/* <li>Description</li> */}
+                <ol className='service_list-items'>
+                 {/* <li>1. Design and implementation of RESTful APIs to support the front-end applications</li> */}
+                  <li>1. Collaborating with front-end developers to integrate their work with the APIs</li>
+                  <li>2. Participating in code reviews to improve the quality and maintainability of the codebase</li>
+                  <li>3. Building user-facing components using HTML, CSS, JavaScript, and other front-end technologies to create visually appealing and interactive interfaces for users</li>
+                </ol>
+            </li>
+
+            <li>
+              <p className='service_decription' >IJRDO journal</p>
+              <li>Duration  - February 2023 - present</li>
+              <li>Backend Developer</li>
+              {/* <li>Description</li> */}
+                <ol className='service_list-items'>
+                  <li>1. Design and implementation of RESTful APIs to support the front-end applications</li>
+                  <li>2. Writing server-side code in Node.js and Lambda to create a robust and scalable back-end architecture Using AWS</li>
+                  <li>3.Participating in code reviews to improve the quality and maintainability of the codebase</li>
+                </ol>
             </li>
 
           </ul>
@@ -115,16 +131,14 @@ function Services() {
           <li>
             
               <p  className='service_decription' >Scaler Academy - Full Stack Developement Program</p>
-              <li>Duration  -  January 2022 - Present</li>
+              <li>Duration  -  April 2022 - Present</li>
               
               <li>Description</li>
                 <ol className='service_list-items'>
-                  <li>1. Course Work - OOPS , DSA , Java Core , Python Core , RDBMS , OS , CN </li>
-                  <li>2. Solved more than 590 DSA problems on the platform</li>
-                  <li>3. Solved more than 200 DSA problems on LeetCode</li>
-                  <li>4. Solved more than 250 DSA problems on GeeksForGeeks</li>
-                  <li>5. Learned Fundamentals of Spring Framework</li>
-                  <li>6. Passed Expert Mock interviews on Adnanced DSA and CS Fundamentals taken by Industry Experts</li>
+                  <li>1. Course Work - OOPS , DSA , Java Core  </li>
+                  <li>2. Solved more than 300 DSA problems on the platform</li>
+                 <li>3. Learning Fundamentals of Spring Framework</li>
+                  <li>4. Passed Expert Mock interviews on Adnanced DSA and CS Fundamentals taken by Industry Experts</li>
                 </ol>
 
             </li>

@@ -23,27 +23,27 @@ const data = [
     review:'Attended Fullstack Dev Program . Solved 300+ DSA problems . Learned OOPS , DBMS , OS and computer science fundamentals   '
 
   },
-  {
-    avatar:AVTR2,
-    name: 'Leetcode',
-    link:'https://leetcode.com/rastogitarang/',
-    review:'Solved 200 DSA problems'
+  // {
+  //   avatar:AVTR2,
+  //   name: 'Leetcode',
+  //   link:'https://leetcode.com/rastogitarang/',
+  //   review:'Solved 200 DSA problems'
 
-  },
-  {
-    avatar:AVTR3,
-    name: 'GeeksForGeeks',
-    link:'https://auth.geeksforgeeks.org/user/rastogitarang5/practice',
-    review:'Solved 200 DSA problems'
+  // },
+  // {
+  //   avatar:AVTR3,
+  //   name: 'GeeksForGeeks',
+  //   link:'https://auth.geeksforgeeks.org/user/rastogitarang5/practice',
+  //   review:'Solved 200 DSA problems'
 
-  },
-  {
-    avatar:AVTR4,
-    name: 'Codeforces',
-    link:'https://codeforces.com/profile/TarangMessiah',
-    review:'Work in progress'
+  // },
+  // {
+  //   avatar:AVTR4,
+  //   name: 'Codeforces',
+  //   link:'https://codeforces.com/profile/TarangMessiah',
+  //   review:'Work in progress'
 
-  }
+  // }
 
 
 ]
@@ -56,7 +56,7 @@ const data = [
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Slide to tee more</h5>
+      {/* <h5>Slide to tee more</h5> */}
       <h2>Profiles</h2>
       
       <Swiper className='container testimonials__container'
