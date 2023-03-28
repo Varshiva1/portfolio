@@ -25,6 +25,7 @@
 .portfolio__item-image{
     border-radius: 1.5rem;
     overflow: hidden;
+    height: 11em;
 }
 
 
@@ -65,6 +66,9 @@
     .portfolio__container{
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+    .portfolio__item-image{
+        height: auto;
     }
 
 }

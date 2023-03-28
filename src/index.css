@@ -70,7 +70,6 @@ body{
     width: var(--container-width-lg);
     margin: 0 auto;
 
-
 }
 
 h1,h2,h3,h4,h5{
@@ -142,6 +141,7 @@ a:hover{
 
     background: var(--color-primary);
     color: var(--color-bg);
+    align-self: center;
 }
 
 
