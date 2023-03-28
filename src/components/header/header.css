@@ -55,20 +55,7 @@ header{
 
 
 /*-------------------------------------ME IMAGE----------------------------------*/
-/* .me{
 
-    background: linear-gradient(var(--color-primary) , transparent);
-    width: 22rem;
-    height: 30rem;
-    position: absolute;
-    left: calc(50% - 11rem);
-    margin-top: 4rem;
-    border-radius: 2rem;
-    overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
-
-
-} */
 
 .me {
     background: linear-gradient(var(--color-primary) 0% , transparent 110%);

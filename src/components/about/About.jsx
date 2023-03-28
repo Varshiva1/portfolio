@@ -16,12 +16,7 @@ const About = () => {
 
 
       <div className='container about__container'>
-{/* 
-        <div className='about__me'>
-          <div className='about__me-image'>
-            <img src={ABOUTME} alt='about image' ></img>
-          </div>
-        </div> */}
+
 
 
         <div className='about__content'>
@@ -43,7 +38,7 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>4 Complete Projects</small>            
+              <small>3 Complete Projects</small>            
             </article>
           </div>
 

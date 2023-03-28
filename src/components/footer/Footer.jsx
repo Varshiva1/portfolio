@@ -3,7 +3,6 @@ import './footer.css'
 import {TbBrandGmail} from 'react-icons/tb'
 import {BsTwitter} from 'react-icons/bs'
 import {TbBrandLinkedin}from 'react-icons/tb'
-//import {BsFacebook}from 'react-icons/bs'
 
 
 const Footer = () => {
@@ -25,8 +24,7 @@ const Footer = () => {
 
 
       <div className='footer__socials'>
-     
-     {/* <a href="https://mail.google.com/mail/u/0/#inbox"target="_blank"><TbBrandGmail/></a> */}
+
         <a href='https://twitter.com/Varshiva1'target="_blank"><BsTwitter/></a>
         <a href='https://www.linkedin.com/in/shivamvarun75/'target="_blank"><TbBrandLinkedin/></a>
 

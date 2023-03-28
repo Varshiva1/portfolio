@@ -47,8 +47,7 @@ function Services() {
               <ol className='service_list-items'>
                 <li>1. Branch - Civil Engineering </li>
                 <li>2. Percentage - 66.12 %</li>
-                {/* <li>3. Soceity/Clubs -  AME ( Association of Mechanical Engg. ) , Debnexus (Debating) </li> */}
-                {/* <li>4. Internships - DLW (Diesel Locomotive Works Varanasi)</li> */}
+               
               </ol>
 
 
@@ -65,21 +64,31 @@ function Services() {
           </div>
         
           <ul className='service_list'>
-            {/* <li>
-
-              <p className='service_decription' >Amazon India Development Centre Noida </p>
-              <li>Duration  -  August 2018  to January 2019</li>
-              <li>Customer Service Representative</li>
-              <li>Description</li>
+       
+            <li>
+              <p className='service_decription' >IJRDO journal</p>
+              <li>Duration  - February 2023 - present</li>
+              <li>Backend Developer</li>
+              {/* <li>Description</li> */}
                 <ol className='service_list-items'>
-                  <li>1. Assisted customers With their purchase</li>
-                  <li>2. provide troubleshooting and technical assistance to customers</li>
-                  <li>3. Handling North-american clients</li>
+                  <li>1. Design and implementation of RESTful APIs to support the front-end applications</li>
+                  <li>2. Writing server-side code in Node.js and Lambda to create a robust and scalable back-end architecture Using AWS</li>
+                  <li>3.Participating in code reviews to improve the quality and maintainability of the codebase</li>
                 </ol>
+            </li>
 
-              
+            <li>
+              <p className='service_decription' >Abhiwan Technology Private Limited </p>
+              <li>Duration  - August 2022 - December 2022</li>
+              <li>Trainee Full Stack Developer</li>
+              {/* <li>Description</li> */}
+                <ol className='service_list-items'>
+                  <li>1. Collaborating with front-end developers to integrate their work with the APIs</li>
+                  <li>2. Participating in code reviews to improve the quality and maintainability of the codebase</li>
+                  <li>3. Building user-facing components using HTML, CSS, JavaScript, and other front-end technologies to create visually appealing and interactive interfaces for users</li>
+                </ol>
+            </li>
 
-            </li> */}
             <li>
              
               <p className='service_decription'>THE HOLISTIC GROUP</p>
@@ -92,30 +101,7 @@ function Services() {
                 </ol>
 
             </li>
-             <li>
-              <p className='service_decription' >Abhiwan Technology Private Limited </p>
-              <li>Duration  - August 2022 - December 2022</li>
-              <li>Trainee Full Stack Developer</li>
-              {/* <li>Description</li> */}
-                <ol className='service_list-items'>
-                 {/* <li>1. Design and implementation of RESTful APIs to support the front-end applications</li> */}
-                  <li>1. Collaborating with front-end developers to integrate their work with the APIs</li>
-                  <li>2. Participating in code reviews to improve the quality and maintainability of the codebase</li>
-                  <li>3. Building user-facing components using HTML, CSS, JavaScript, and other front-end technologies to create visually appealing and interactive interfaces for users</li>
-                </ol>
-            </li>
-
-            <li>
-              <p className='service_decription' >IJRDO journal</p>
-              <li>Duration  - February 2023 - present</li>
-              <li>Backend Developer</li>
-              {/* <li>Description</li> */}
-                <ol className='service_list-items'>
-                  <li>1. Design and implementation of RESTful APIs to support the front-end applications</li>
-                  <li>2. Writing server-side code in Node.js and Lambda to create a robust and scalable back-end architecture Using AWS</li>
-                  <li>3.Participating in code reviews to improve the quality and maintainability of the codebase</li>
-                </ol>
-            </li>
+             
 
           </ul>
         </article>

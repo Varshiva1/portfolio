@@ -20,8 +20,7 @@ const data = [
 
   },
 
-////   http://3.111.83.212:8080/HOSPITAL_DEPLOYMENT_APP/
-// https://github.com/TechnoDiktator/Resume_Projects/tree/main/Hospital%20Site
+
   {
     id: 2,
     image : IMG2 ,
@@ -41,26 +40,8 @@ const data = [
     demo: 'https://decorrr.netlify.app/#'
 
   },
-  
-  // {
-  //   id: 4,
-  //   image : IMG4 , 
-  //   title:'',
-  //   title2:'Coming Soon',
-  //   github : 'https://github.com/TechnoDiktator/Resume_Projects/tree/main/',
-  //   demo: ''
-
-  // },
+ 
 ]
-
-
-
-
-
-
-
-
-
 
 
 function Portfolio() {

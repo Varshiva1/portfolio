@@ -14,8 +14,7 @@ text-decoration: none;
 
 }
 
-/*The :root selector matches the document's root element.
-In HTML, the root element is always the html element.*/
+
 :root{
     --color-bg:#1f1f38;
     /* #6363c0 */
@@ -31,10 +30,6 @@ In HTML, the root element is always the html element.*/
     --transition:all 400ms ease;
 
 
-    /*Property names that are prefixed with 
-    --, like --example-name, represent custom properties that
-     contain a value that can be used in other declarations using 
-     the var() function.*/
 }
 
 html{
@@ -43,9 +38,7 @@ html{
 
 }
 
-/*The ::-webkit-scrollbar CSS pseudo-element
- affects the style of an element's scrollbar 
- when it has overflow:scroll; set.*/
+
 
 ::-webkit-scrollbar{
     display: none;
