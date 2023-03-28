@@ -66,6 +66,7 @@
     .portfolio__container{
         grid-template-columns: 1fr;
         gap: 1rem;
+        justify-content: center;
     }
     .portfolio__item-image{
         height: auto;

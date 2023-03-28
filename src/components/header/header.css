@@ -80,7 +80,9 @@ header{
     border-radius: 2rem;
     padding: 3em 1.5em;
 }
-
+.me img{
+    border-radius: inherit;
+}
 
 /*---------------------SCROLL DOWN -------------------------*/
 .scroll__down{
@@ -106,7 +108,14 @@ header{
 
 
 /*-----------------------------MEDIA QUERIES (Medium DEVICES)--------------------------*/
-
+@media(max-width:400px){
+    .me{
+        width:15em;
+        height: 16em;
+        padding: 1.5em 0.5em;
+        left: calc(50% - 8rem);
+    }
+}
 @media screen and (max-width:600px) {
     header{
         height: 100vh;
