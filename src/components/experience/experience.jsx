@@ -96,7 +96,7 @@ const experience = () => {
 
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon'/>
-                <div><h4>AWS And Lambda DB</h4>
+                <div><h4>AWS Lambda And Dynamo DB</h4>
                 <small className='text-light'>Basic</small></div>           
               </article>
 
@@ -105,7 +105,7 @@ const experience = () => {
               <article className='experience__details'>
                 <BsPatchCheckFill className='experience__details-icon'/>
                 <div>
-                <h4>CS Fundamentals (DSA , OOPS , CN , OS)</h4>
+                <h4>CS Fundamentals (DSA , OOPS)</h4>
                 <small className='text-light'>Intermediate</small>
                 </div>
                 </article>
