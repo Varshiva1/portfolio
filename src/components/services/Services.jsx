@@ -67,7 +67,7 @@ function Services() {
        
             <li>
               <p className='service_decription' >IJRDO journal</p>
-              <li>Duration  - February 2023 - present</li>
+              <li>Duration  - march 2022 - Present</li>
               <li>Backend Developer</li>
               {/* <li>Description</li> */}
                 <ol className='service_list-items'>
@@ -77,17 +77,7 @@ function Services() {
                 </ol>
             </li>
 
-            <li>
-              <p className='service_decription' >Abhiwan Technology Private Limited </p>
-              <li>Duration  - August 2022 - December 2022</li>
-              <li>Trainee Full Stack Developer</li>
-              {/* <li>Description</li> */}
-                <ol className='service_list-items'>
-                  <li>1. Collaborating with front-end developers to integrate their work with the APIs</li>
-                  <li>2. Participating in code reviews to improve the quality and maintainability of the codebase</li>
-                  <li>3. Building user-facing components using HTML, CSS, JavaScript, and other front-end technologies to create visually appealing and interactive interfaces for users</li>
-                </ol>
-            </li>
+           
 
             <li>
              

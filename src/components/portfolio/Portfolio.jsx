@@ -3,7 +3,7 @@ import React from 'react'
 import IMG1 from '../../assets/notesapp.png'
 import IMG2 from '../../assets/NewsApp.png'
 import IMG3 from '../../assets/project-sample.png'
-import IMG4 from '../../assets/project-sample.png'
+import IMG4 from '../../assets/banner.jpg'
 
 
 
@@ -38,6 +38,16 @@ const data = [
     title2:'Decor- A complete Home Solution',
     github : 'https://github.com/Varshiva1/Decor--A-complete-home-solution',
     demo: 'https://decorrr.netlify.app/#'
+
+  },
+
+  {
+    id: 4,
+    image : IMG4 , 
+    title:'Movie Mimic',
+    title2:' Your Ultimate Destination for Cinematic Exploration, Ratings, and Reviews',
+    github : 'https://github.com/Varshiva1/imbd-project',
+    demo: 'https://imbd-project.vercel.app/'
 
   },
  
