@@ -2,7 +2,7 @@ import './portfolio.css'
 import React from 'react'
 import IMG1 from '../../assets/notesapp.png'
 import IMG2 from '../../assets/NewsApp.png'
-import IMG3 from '../../assets/project-sample.png'
+import IMG3 from '../../assets/Decor_app.png'
 import IMG4 from '../../assets/banner.jpg'
 
 

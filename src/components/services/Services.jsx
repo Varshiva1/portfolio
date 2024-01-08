@@ -64,10 +64,23 @@ function Services() {
           </div>
         
           <ul className='service_list'>
-       
-            <li>
+
+          <li>
+              <p className='service_decription' >Thinkscoop Technology</p>
+              <li> October 2023 - Present</li>
+              <li>Full Stack Developer</li>
+                <ol className='service_list-items'>
+                  <li>1.Spearheaded the upgrade of a flight booking platform, transitioning from a mobile app to a web app, to enhance accessibility and provide a seamless user experience across devices.</li>
+                  <li>2.Developed an RESTful APIs for fetching real-time flight details, airlines, and airport information by integrating Amadeus, Airtable, and MongoDB, enhancing data accessibility and accuracy</li>
+                  <li>3.Developed robust Jest test suites for API endpoints, ensuring comprehensive coverage and reliability.</li>
+                  <li>4.Utilized MongoDB for scalable and robust data storage, improving data processing speed by 30% and ensuring reliable flight details retrieval.</li>
+                </ol>
+            </li>
+
+
+          <li>
               <p className='service_decription' >IJRDO journal</p>
-              <li>Duration  - march 2022 - Present</li>
+              <li> March 2022 - September 2023</li>
               <li>Backend Developer</li>
               {/* <li>Description</li> */}
                 <ol className='service_list-items'>
@@ -76,7 +89,6 @@ function Services() {
                   <li>3.Participating in code reviews to improve the quality and maintainability of the codebase</li>
                 </ol>
             </li>
-
            
 
             <li>
