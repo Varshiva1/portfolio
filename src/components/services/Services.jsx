@@ -67,7 +67,7 @@ function Services() {
 
           <li>
               <p className='service_decription' >Thinkscoop Technology</p>
-              <li> October 2023 - Present</li>
+              <li> October 2023 - january 2024</li>
               <li>Full Stack Developer</li>
                 <ol className='service_list-items'>
                   <li>1.Spearheaded the upgrade of a flight booking platform, transitioning from a mobile app to a web app, to enhance accessibility and provide a seamless user experience across devices.</li>
